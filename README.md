@@ -9,6 +9,7 @@ Why do all our map projects relate to food? Are we really hungry? Is it snacktim
 - Make an extra-fun food-themed old-fashioned `Mapbox Studio` layer
 - Add photos from LA Public Library `Live and Dine in LA` old archived menu exhibit
 - Add historic photographs of the restaurants
+- Categorize restaurants by whether they are open now or not
 
 # Data
 [Google Spreadsheets](https://docs.google.com/spreadsheets/d/1i_v1oWQO8YJaF6YmtBde9mR0uK2OBTXH2bU56i6nxQA/edit#gid=778088403)
