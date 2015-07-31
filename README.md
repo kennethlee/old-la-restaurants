@@ -5,6 +5,11 @@ LALALA food is good, so are crazy old restaurants! yum!
 
 Why do all our map projects relate to food? Are we really hungry? Is it snacktime yet?
 
+# Project ideas
+- Make an extra-fun food-themed old-fashioned `Mapbox Studio` layer
+- Add photos from LA Public Library `Live and Dine in LA` old archived menu exhibit
+- Add historic photographs of the restaurants
+
 # Data
 [Google Spreadsheets](https://docs.google.com/spreadsheets/d/1i_v1oWQO8YJaF6YmtBde9mR0uK2OBTXH2bU56i6nxQA/edit#gid=778088403)
 
