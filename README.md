@@ -4,6 +4,16 @@ LA Historic Restaurants
 LALALA food is good, so are crazy old restaurants! yum!
 
 Why do all our map projects relate to food? Are we really hungry? Is it snacktime yet?
+# What we have so far:
+- [x] Restaurant name, address, year data sorted, formatted and cleaned
+- [x] Addresses properly formatted
+- [x] Addresses geocoded
+- [x] Preliminary `.geojson` map
+- [ ] Styling
+- [ ] Data bubbles formatting
+- [ ] Data pin customizing
+- [ ] Add images, menus, links
+
 
 # Project ideas
 - Make an extra-fun food-themed old-fashioned `Mapbox Studio` layer
