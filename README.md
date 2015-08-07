@@ -1,4 +1,4 @@
-LA Historic Restaurants
+LA Historic Restaurants 🍴🍩💎
 ========================
 
 LALALA food is good, so are crazy old restaurants! yum!
