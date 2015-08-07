@@ -3,11 +3,12 @@ LA Historic Restaurants
 
 LALALA food is good, so are crazy old restaurants! yum!　🍴🍩💎
 
-We are making a map for the Offbeat L.A. blog, who's author, Nikki, has compiled this list of historic L.A. restaurants, [Offbeat L.A.: The Oldest Surviving Los Angeles Restaurants… A Master List of the Vintage, Historic and Old School](http://thelosangelesbeat.com/2015/05/offbeat-l-a-the-oldest-surviving-los-angeles-restaurants-a-master-list-of-the-vintage-historic-and-old-school/)
+We are making a map for the Offbeat L.A. blog, who's author, Nikki, has compiled this list of historic L.A. restaurants, [Offbeat L.A.: The Oldest Surviving Los Angeles Restaurants… A Master List of the Vintage, Historic and Old School](http://thelosangelesbeat.com/2015/05/offbeat-l-a-the-oldest-surviving-los-angeles-restaurants-a-master-list-of-the-vintage-historic-and-old-school/) 
+
+Link of work so far: [Map](http://maptimela.github.io/old-la-restaurants/)
 
 As she writes:
 > I often search the internet for authentic old-school spots in neighborhoods I visit and finding them is not always easy. After a lot of detective work I’ve compiled this “Master List” and hope to update it regularly. I’m sure there are many holes in my research and would appreciate additions and updates in the comments section below. My criteria for the restaurants here is that they are 1979 or older, although there are a few exceptions, and that they are within about an hour’s drive from downtown L.A. You will find classic steakhouses, Googie diners, pastrami delicatessans, walk-up hamburger stands and more. When the restaurant has a web page I provide that, but if not I share a link to a review, Yelp or Wikipedia.                       Cheers, my dears, and bon appetit! Love, Nikki
-
 
 Why do all our map projects relate to food? Are we really hungry? Is it snacktime yet?
 
