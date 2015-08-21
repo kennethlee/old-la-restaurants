@@ -8,8 +8,34 @@
 </head>
 
 <body>
+		<header>
+			<h1>Historic Los Angeles Restaurants</h1>
+		</header>
+		<nav>
 
-<h1>hello world la: this is where we will test our restaurant map</h1>
+		</nav>
+		<main>
+			<script src="http://libs.cartocdn.com/cartodb.js/v3/3.15/cartodb.js"></script>
+	    <script>
+	      function main() {
+	        cartodb.createVis('map', 'https://danhillreports.cartodb.com/api/v2/viz/2c22e308-3cb1-11e5-b527-0e853d047bba/viz.json', {
+	        })
+	        .done(function(vis, layers) {
+	          window.layers = layers;
+	        })
+	        .error(function(err) {
+	          console.log(err);
+	        });
+	      }
+
+	      window.onload = main;
+	    </script>
+		</main>
+		<footer>
+
+		</footer>
+
+<!--<h1>hello world la: this is where we will test our restaurant map</h1>-->
 </body>
 
 </html>
