@@ -2,16 +2,61 @@
 <head>
 <link rel="stylesheet" href="style.css" />
 	<script src="http://code.jquery.com/jquery-latest.min.js " ></script>
-	<title>mapstarter</title>
+	<title>Historic Restaurants in LA</title>
 	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
 	<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+	<script src="https://raw.githubusercontent.com/calvinmetcalf/leaflet-ajax/master/dist/leaflet.ajax.min.js"></script>
+	<script type="text/javascript">
+
+		function formatPopup(name,address,city,zip,year,description,url){
+
+			if (description === "NULL"){
+				description = 'No description available';
+			}
+
+			return "<h3><b>" + name + "</b></h3><hr />" +
+				"<b>Year Established:</b> " + year + "<br />" +
+				"<b>Description: </b>" + description + "<br />" +
+				"<b>Address: </b>" + address + ", " + city + " " + zip + "<br />" +
+				'<a href="' + url + '" >Website</a>';
+		}
+
+		var map;
+		$(document).ready(function(){
+			map = L.map('map').setView([34,-118],10);
+			//find many basemap options @ http://leaflet-extras.github.io/leaflet-providers/preview/
+			//thunderforest landscape
+			L.tileLayer('http://{s}.tile.thunderforest.com/landscape/{z}/{x}/{y}.png', {
+				attribution: '&copy; <a href="http://www.opencyclemap.org">OpenCycleMap</a>, &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>'
+			}).addTo(map);
+
+			var geojsonLayer = new L.GeoJSON.AJAX("https://raw.githubusercontent.com/maptimeLA/old-la-restaurants/master/data/historic_restaurants.geojson",{
+				onEachFeature(feature, layer){
+
+					var name = feature.properties.Name;
+					var address = feature.properties.Address;
+					var city = feature.properties.City;
+					var zip = feature.properties.Zip;
+					var year = feature.properties.Year;
+					var description = feature.properties.Descriptio;
+					var url = feature.properties.Link;
+
+					var popupText = formatPopup(name,address,city,zip,year,description,url);
+
+					layer.bindPopup(popupText);
+				}
+			});
+			geojsonLayer.addTo(map);
+		});
+	</script>
 </head>
 
 <body>
 
-	<h1>hello world la: this is where we will test our restaurant map</h1>
+	<h1>Los Angeles' Historic Restaurants</h1>
 	<a href="http://thelosangelesbeat.com/2015/05/offbeat-l-a-the-oldest-surviving-los-angeles-restaurants-a-master-list-of-the-vintage-historic-and-old-school/">
 		Offbeat L.A.: The Oldest Surviving Los Angeles Restaurants… A Master List of the Vintage, Historic and Old School</a>
+	<div id="map"></div>
 </body>
 
 </html>
