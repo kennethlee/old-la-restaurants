@@ -26,7 +26,9 @@
 			map = L.map('map').setView([34,-118],10);
 			//find many basemap options @ http://leaflet-extras.github.io/leaflet-providers/preview/
 			//thunderforest landscape
-			L.tileLayer('http://{s}.tile.thunderforest.com/landscape/{z}/{x}/{y}.png', {
+
+			//uses chan's mapbox access token
+			L.tileLayer('https://{s}.tiles.mapbox.com/v4/maptimelaomar.f91a81fd/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiY3N0ZXJsaW5nIiwiYSI6IndFLXM2dkkifQ.CHZ2w6yCJWHbfllYo3AIcw', {
 				attribution: '&copy; <a href="http://www.opencyclemap.org">OpenCycleMap</a>, &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>'
 			}).addTo(map);
 
@@ -54,9 +56,9 @@
 <body>
 
 	<h1>Los Angeles' Historic Restaurants</h1>
-	<a href="http://thelosangelesbeat.com/2015/05/offbeat-l-a-the-oldest-surviving-los-angeles-restaurants-a-master-list-of-the-vintage-historic-and-old-school/">
-		Offbeat L.A.: The Oldest Surviving Los Angeles Restaurants… A Master List of the Vintage, Historic and Old School</a>
 	<div id="map"></div>
+	<a href="http://thelosangelesbeat.com/2015/05/offbeat-l-a-the-oldest-surviving-los-angeles-restaurants-a-master-list-of-the-vintage-historic-and-old-school/">
+		Offbeat L.A.: The Oldest Surviving Los Angeles Restaurants... A Master List of the Vintage, Historic and Old School</a>
 </body>
 
 </html>
