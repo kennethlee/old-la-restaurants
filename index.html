@@ -5,7 +5,7 @@
 	<title>Historic Restaurants in LA</title>
 	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
 	<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
-	<script src="https://raw.githubusercontent.com/calvinmetcalf/leaflet-ajax/master/dist/leaflet.ajax.min.js"></script>
+	<script src="js/leaflet.ajax.min.js"></script>
 	<script type="text/javascript">
 
 		function formatPopup(name,address,city,zip,year,description,url){
@@ -32,7 +32,7 @@
 				attribution: '&copy; <a href="http://www.opencyclemap.org">OpenCycleMap</a>, &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>'
 			}).addTo(map);
 
-			var geojsonLayer = new L.GeoJSON.AJAX("https://raw.githubusercontent.com/maptimeLA/old-la-restaurants/master/data/historic_restaurants.geojson",{
+			var geojsonLayer = new L.GeoJSON.AJAX("data/historic_restaurants.geojson",{
 				onEachFeature(feature, layer){
 
 					var name = feature.properties.Name;
