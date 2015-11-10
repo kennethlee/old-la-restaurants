@@ -41,10 +41,29 @@ $(document).ready(function(){
       })
     }});
     geojsonLayer.addTo(map);
+    
+var legend = L.control({position: 'bottomright'});
+
+legend.onAdd = function (map) {
+
+    var div = L.DomUtil.create('div', 'info legend'),
+        years = [1900,1910,1920,1930,1940,1950,1960,1970,1980],
+        labels = [];
+
+    // loop through our density intervals and generate a label with a colored square for each interval
+    for (var i = 0; i < years.length; i++) {
+        div.innerHTML +=
+            '<i style="background:' + colorFunc(years[i] + 1) + '"></i> ' +
+            years[i] + (years[i + 1] ? '&ndash;' + years[i + 1] + '<br>' : '+');
+    }
+
+    return div;
+};
+
+legend.addTo(map);
   });
 
   function colorFunc(d) {
-    var d = String(d);
     return d <1910 ? "#00ffff" :
     d >1910 && d<1920? "#00c8ff" :
     d >1920 && d<1930? "#0096ff" :
