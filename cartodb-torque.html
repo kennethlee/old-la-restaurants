@@ -1,26 +1,22 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Map: The Oldest Surviving Los Angeles Restaurants</title>
+		<title>Map: The Oldest Surviving Los Angeles Restaurants… A Master List of the Vintage, Historic and Old School</title>
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
     <link rel="shortcut icon" href="http://cartodb.com/assets/favicon.ico" />
-    <style>
-      html, body, #map {
-        height: 100%;
-        padding: 0;
-        margin: 0;
-      }
-    </style>
-
+    <link rel="stylesheet" href="style.css" />
     <link rel="stylesheet" href="http://libs.cartocdn.com/cartodb.js/v3/3.15/themes/css/cartodb.css" />
   </head>
   <body>
+    <nav>
+      <a href="http://thelosangelesbeat.com/2015/05/offbeat-l-a-the-oldest-surviving-los-angeles-restaurants-a-master-list-of-the-vintage-historic-and-old-school/" class="tagline">Offbeat L.A.’s Vintage, Historic and Old School Restaurants</a>
+			<span class="more-stuff">&#x1f4fa;<a href="/cartodb-torque.html">Animation</a> | &#x1f4cd; <a href="/">Map</a></span>
+      <span class="credit">Made with &#128152; by <a class="credit-link" href="http://maptimela.github.io" alt="MaptimeLA">MaptimeLA</a> | <a href="https://github.com/maptimeLA/old-la-restaurants" alt="View GitHub repository" class="credit-link">Data & Code</a></span>
+    </nav>
     <div id="map"></div>
-
     <!-- include cartodb.js library -->
     <script src="http://libs.cartocdn.com/cartodb.js/v3/3.15/cartodb.js"></script>
-
     <script>
       function main() {
         cartodb.createVis('map', 'https://danhillreports.cartodb.com/api/v2/viz/3f3f381e-3cb7-11e5-99d5-0e0c41326911/viz.json', {
@@ -32,7 +28,6 @@
           console.log(err);
         });
       }
-
       window.onload = main;
     </script>
   </body>
