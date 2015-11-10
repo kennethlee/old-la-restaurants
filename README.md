@@ -32,8 +32,8 @@ Data Gathering & Cleaning
 Webmap Making
 =========
 - [x] CartoDB - Color organizing by time/age
-- [ ] Leaflet pin points - Data bubbles information formatting
-- [ ] Styling the base layer of the map
+- [x] Leaflet pin points - Data bubbles information formatting
+- [x] Styling the base layer of the map with Mapbox
 - [ ] Adding menu photos and other visual links
 
 Directions for running map locally
