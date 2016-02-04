@@ -3,7 +3,7 @@ LA Historic Restaurants
 
 LALALA food is good, so are crazy old restaurants! yum!　🍴🍩💎
 
-We are making a map for the Offbeat L.A. blog, who's author, Nikki, has compiled this list of historic L.A. restaurants, [Offbeat L.A.: The Oldest Surviving Los Angeles Restaurants… A Master List of the Vintage, Historic and Old School](http://thelosangelesbeat.com/2015/05/offbeat-l-a-the-oldest-surviving-los-angeles-restaurants-a-master-list-of-the-vintage-historic-and-old-school/) 
+We are making a map for the Offbeat L.A. blog, whose author, Nikki, has compiled this list of historic L.A. restaurants, [Offbeat L.A.: The Oldest Surviving Los Angeles Restaurants… A Master List of the Vintage, Historic and Old School](http://thelosangelesbeat.com/2015/05/offbeat-l-a-the-oldest-surviving-los-angeles-restaurants-a-master-list-of-the-vintage-historic-and-old-school/) 
 
 Link of work so far: [Map](http://maptimela.github.io/old-la-restaurants/)
 
@@ -28,6 +28,11 @@ Data Gathering & Cleaning
 - [x] Addresses geocoded
 - [x] [Preliminary `.geojson` map](https://github.com/maptimeLA/old-la-restaurants/blob/master/data/historic_restaurants.geojson)
 - [ ] Visuals: Add images/videos, menus from LA Public Library, links/menus of actual website/restaurant
+- [ ] Add a time slider so can see when the restaurants opened over time
+- [ ] Add other relevant historical data such as Red Car line openings and closings; when neighborhoods were built
+- [ ]  History of ethnic food restaurants. 
+- [ ] A way to keep in sync with Nikki's blog updates
+
 
 Webmap Making
 =========
