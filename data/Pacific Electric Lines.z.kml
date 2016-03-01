@@ -19,7 +19,7 @@
 		</LineString>
 	</Placemark>
 	<Placemark>
-		<name>Subway - Hollywood Line</name>
+		<name>Subway-Hollywood Line</name>
 		<visibility>0</visibility>
 		<description>Downtown Los Angeles (Subway Terminal) to Hollywood (Crescent Heights &amp; Santa Monica). 1926-1954</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
@@ -118,7 +118,7 @@
 	<Placemark>
 		<name>Santa Monica Air Line</name>
 		<visibility>0</visibility>
-		<description>Downtown Los Angeles (6th &amp; Main) to Venice (Ocean Park Car Barn - Thornton &amp; Pacific); 1909-1953</description>
+		<description>Downtown Los Angeles (6th &amp; Main) to Venice (Ocean Park Car Barn-Thornton &amp; Pacific); 1909-1953</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
 		<ExtendedData>
 		</ExtendedData>
@@ -172,7 +172,7 @@
 		</LineString>
 	</Placemark>
 	<Placemark>
-		<name>SFV Line - Owensmouth Branch</name>
+		<name>SFV Line-Owensmouth Branch</name>
 		<visibility>0</visibility>
 		<description>Downtown Los Angeles to Owensmouth (Topanga Canyon Blvd &amp; Sherman Way) 1913-1938</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
@@ -214,7 +214,7 @@
 		</LineString>
 	</Placemark>
 	<Placemark>
-		<name>Redondo Beach - Del Rey Line</name>
+		<name>Redondo Beach-Del Rey Line</name>
 		<visibility>0</visibility>
 		<description>Downtown Los Angeles (4th &amp; Hill) to Redondo Beach (Clifton-By-The-Sea) 1908-1940</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
@@ -242,7 +242,7 @@
 		</LineString>
 	</Placemark>
 	<Placemark>
-		<name>South Hollywood - Sherman Line</name>
+		<name>South Hollywood-Sherman Line</name>
 		<visibility>0</visibility>
 		<description>Downtown Los Angeles (Subway Terminal) to Sherman (Santa Monica Blvd &amp; San Vicente) 1926-1953</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
@@ -256,9 +256,9 @@
 		</LineString>
 	</Placemark>
 	<Placemark>
-		<name>Hollywood - Venice Line</name>
+		<name>Hollywood-Venice Line</name>
 		<visibility>0</visibility>
-		<description>Downtown Los Angeles (Subway Terminal) - Hollywood - Venice (Windward &amp; Pacific). 1900-1941</description>
+		<description>Downtown Los Angeles (Subway Terminal)-Hollywood-Venice (Windward &amp; Pacific). 1900-1941</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
 		<ExtendedData>
 		</ExtendedData>
@@ -327,7 +327,7 @@
 	<Placemark>
 		<name>Newport-Balboa Line</name>
 		<visibility>0</visibility>
-		<description>Downtown Los Angeles (6th &amp; Main) to Balboa (Balboa Blvd &amp; Main St); 1906 - 1950</description>
+		<description>Downtown Los Angeles (6th &amp; Main) to Balboa (Balboa Blvd &amp; Main St); 1906-1950</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
 		<ExtendedData>
 		</ExtendedData>
@@ -341,7 +341,7 @@
 	<Placemark>
 		<name>El Segundo Line</name>
 		<visibility>0</visibility>
-		<description>Downtown Los Angeles (6th &amp; Main) - Watts - El Segundo (Eucalyptus &amp; Grand) 1911-1930</description>
+		<description>Downtown Los Angeles (6th &amp; Main)-Watts-El Segundo (Eucalyptus &amp; Grand) 1911-1930</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
 		<ExtendedData>
 		</ExtendedData>
@@ -355,7 +355,7 @@
 	<Placemark>
 		<name>San Pedro via Dominguez Line</name>
 		<visibility>0</visibility>
-		<description>Downtown Los Angeles (6th &amp; Main) - Dominguez - San Pedro (5th &amp; Harbor)</description>
+		<description>Downtown Los Angeles (6th &amp; Main)-Dominguez-San Pedro (5th &amp; Harbor)</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
 		<ExtendedData>
 		</ExtendedData>
@@ -467,7 +467,7 @@
 	<Placemark>
 		<name>Santa Ana Line</name>
 		<visibility>0</visibility>
-		<description>Downtown Los Angeles (6th &amp; Main) - Watts - Santa Ana (Terminal &amp; 4th St). 1903-1958</description>
+		<description>Downtown Los Angeles (6th &amp; Main)-Watts-Santa Ana (Terminal &amp; 4th St). 1903-1958</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
 		<ExtendedData>
 		</ExtendedData>
@@ -481,7 +481,7 @@
 	<Placemark>
 		<name>Redondo via Gardena Line</name>
 		<visibility>0</visibility>
-		<description>Downtown Los Angeles (6th &amp; Main) - Watts - South Los Angeles - Redondo Beach (Pacific &amp; Diamond) - Clifton-By-The-Sea. 1912-1940</description>
+		<description>Downtown Los Angeles (6th &amp; Main)-Watts-South Los Angeles-Redondo Beach (Pacific &amp; Diamond)-Clifton-By-The-Sea. 1912-1940</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
 		<ExtendedData>
 		</ExtendedData>
@@ -495,7 +495,7 @@
 	<Placemark>
 		<name>San Pedro via Torrance Line</name>
 		<visibility>0</visibility>
-		<description>Downtown Los Angeles (6th &amp; Main) - Watts - South Los Angeles - Hermosillo - San Pedro (5th &amp; Harbor) 1912-1940</description>
+		<description>Downtown Los Angeles (6th &amp; Main)-Watts-South Los Angeles-Hermosillo-San Pedro (5th &amp; Harbor) 1912-1940</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
 		<ExtendedData>
 		</ExtendedData>
@@ -534,9 +534,9 @@
 		</LineString>
 	</Placemark>
 	<Placemark>
-		<name>La Habra - Yorba Linda Line</name>
+		<name>La Habra-Yorba Linda Line</name>
 		<visibility>0</visibility>
-		<description>Downtown Los Angeles (6th &amp; Main) - Slauson Jct - Whittier - Yorba Linda 1911-1938</description>
+		<description>Downtown Los Angeles (6th &amp; Main)-Slauson Jct-Whittier-Yorba Linda 1911-1938</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
 		<ExtendedData>
 		</ExtendedData>
@@ -550,7 +550,7 @@
 	<Placemark>
 		<name>Fullerton Branch Line</name>
 		<visibility>0</visibility>
-		<description>(1917 - 1938</description>
+		<description>(1917-1938</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
 		<ExtendedData>
 		</ExtendedData>
@@ -564,7 +564,7 @@
 	<Placemark>
 		<name>San Bernardino Line</name>
 		<visibility>0</visibility>
-		<description>Downtown Los Angeles (6th &amp; Main) - San Bernardino (3rd &amp; E streets) 1906-1950</description>
+		<description>Downtown Los Angeles (6th &amp; Main)-San Bernardino (3rd &amp; E streets) 1906-1950</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
 		<ExtendedData>
 		</ExtendedData>
@@ -590,9 +590,9 @@
 		</LineString>
 	</Placemark>
 	<Placemark>
-		<name>Alhambra - San Gabriel Line</name>
+		<name>Alhambra-San Gabriel Line</name>
 		<visibility>0</visibility>
-		<description>Downtown Los Angeles (6th &amp; Main) - Alhambra - Temple City (Kauffman Ave &amp; Las Tunas). 1902-1941</description>
+		<description>Downtown Los Angeles (6th &amp; Main)-Alhambra-Temple City (Kauffman Ave &amp; Las Tunas). 1902-1941</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
 		<ExtendedData>
 		</ExtendedData>
@@ -648,7 +648,7 @@
 	<Placemark>
 		<name>Oak Knoll Line</name>
 		<visibility>0</visibility>
-		<description>Downtown Los Angeles (6th &amp; Main) - Oak Knoll (Huntington Hotel) - Pasadena (Mary St [now 210 Fwy] &amp; Fair Oaks Ave). 1906-1950</description>
+		<description>Downtown Los Angeles (6th &amp; Main)-Oak Knoll (Huntington Hotel)-Pasadena (Mary St [now 210 Fwy] &amp; Fair Oaks Ave). 1906-1950</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
 		<ExtendedData>
 		</ExtendedData>
@@ -660,9 +660,9 @@
 		</LineString>
 	</Placemark>
 	<Placemark>
-		<name>Oak Knoll Line - Rush Hour Service</name>
+		<name>Oak Knoll Line-Rush Hour Service</name>
 		<visibility>0</visibility>
-		<description>Downtown Los Angeles (6th &amp; Main) - Oak Knoll (Huntington Hotel) - Altadena (Woodbury Rd &amp; Lake Ave). 1906-1941</description>
+		<description>Downtown Los Angeles (6th &amp; Main)-Oak Knoll (Huntington Hotel)-Altadena (Woodbury Rd &amp; Lake Ave). 1906-1941</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
 		<ExtendedData>
 		</ExtendedData>
@@ -704,7 +704,7 @@
 	<Placemark>
 		<name>Mt. Lowe Line</name>
 		<visibility>0</visibility>
-		<description>Downtown Los Angeles (6th &amp; Main) - Fair Oaks Car Barn - Rubio Pavilion Built 1893; Operated by the PE 1902 - 1938</description>
+		<description>Downtown Los Angeles (6th &amp; Main)-Fair Oaks Car Barn-Rubio Pavilion Built 1893; Operated by the PE 1902-1938</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
 		<ExtendedData>
 		</ExtendedData>
@@ -716,9 +716,9 @@
 		</LineString>
 	</Placemark>
 	<Placemark>
-		<name>Mt. Lowe Line - Echo Mountain Incline</name>
+		<name>Mt. Lowe Line-Echo Mountain Incline</name>
 		<visibility>0</visibility>
-		<description>Rubio Pavilion to Echo Mountain. Funnicular Portion of Mt. Lowe Line. Built 1893; Operated by the PE 1902 - 1938</description>
+		<description>Rubio Pavilion to Echo Mountain. Funnicular Portion of Mt. Lowe Line. Built 1893; Operated by the PE 1902-1938</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
 		<ExtendedData>
 		</ExtendedData>
@@ -730,9 +730,9 @@
 		</LineString>
 	</Placemark>
 	<Placemark>
-		<name>Mt. Lowe Line - Alpine Division</name>
+		<name>Mt. Lowe Line-Alpine Division</name>
 		<visibility>0</visibility>
-		<description>Echo Mountain to Mt. Lowe Alpine Tavern resort. Built 1893; Operated by the PE 1902 - 1938</description>
+		<description>Echo Mountain to Mt. Lowe Alpine Tavern resort. Built 1893; Operated by the PE 1902-1938</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
 		<ExtendedData>
 		</ExtendedData>
@@ -774,7 +774,7 @@
 	<Placemark>
 		<name>Sierra Madre Line</name>
 		<visibility>0</visibility>
-		<description>Downtown Los Angeles (6th &amp; Main) to Sierra Madre (Mountain Trail Ave &amp; Highland Ave) 1904 - 1950</description>
+		<description>Downtown Los Angeles (6th &amp; Main) to Sierra Madre (Mountain Trail Ave &amp; Highland Ave) 1904-1950</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
 		<ExtendedData>
 		</ExtendedData>
@@ -940,7 +940,7 @@
 		</LineString>
 	</Placemark>
 	<Placemark>
-		<name>Pomona - Claremont Line</name>
+		<name>Pomona-Claremont Line</name>
 		<visibility>0</visibility>
 		<description>Pomona (3rd &amp; Garey) to Claremont (1st &amp; College). 1910-1933</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
@@ -954,7 +954,7 @@
 		</LineString>
 	</Placemark>
 	<Placemark>
-		<name>Pomona - Upland Line</name>
+		<name>Pomona-Upland Line</name>
 		<visibility>0</visibility>
 		<description>Pomona (3rd &amp; Garey) to Upland (Campus Ave)</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
@@ -1047,7 +1047,7 @@
 		</LineString>
 	</Placemark>
 	<Placemark>
-		<name>San Bernardino - Riverside Line</name>
+		<name>San Bernardino-Riverside Line</name>
 		<visibility>0</visibility>
 		<description>San Bernardino (3rd St) to Riverside (14th &amp; Market) (19xx-1943</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
@@ -1061,7 +1061,7 @@
 		</LineString>
 	</Placemark>
 	<Placemark>
-		<name>Venice - Del Rey Shuttle Line</name>
+		<name>Venice-Del Rey Shuttle Line</name>
 		<visibility>0</visibility>
 		<description>Venice (Windward Ave &amp; Pacific Ave) to Playa Del Rey (Culver Blvd &amp; Vista Del Mar). 1905-1936</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
@@ -1088,7 +1088,7 @@
 		</LineString>
 	</Placemark>
 	<Placemark>
-		<name>Fairmount Park - Victoria Hill Line (Riverside Local)</name>
+		<name>Fairmount Park-Victoria Hill Line (Riverside Local)</name>
 		<visibility>0</visibility>
 		<description>Faimount Park to Victoria Club. 1919-1925</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
@@ -1130,9 +1130,9 @@
 		</LineString>
 	</Placemark>
 	<Placemark>
-		<name>Riverside - Rialto Line</name>
+		<name>Riverside-Rialto Line</name>
 		<visibility>0</visibility>
-		<description>Downtown Los Angeles (6th &amp; Main) - Rialto - Riverside; 1914-1940</description>
+		<description>Downtown Los Angeles (6th &amp; Main)-Rialto-Riverside; 1914-1940</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
 		<ExtendedData>
 		</ExtendedData>
@@ -1157,7 +1157,7 @@
 		</LineString>
 	</Placemark>
 	<Placemark>
-		<name>Ontario - San Antonio Heights Line</name>
+		<name>Ontario-San Antonio Heights Line</name>
 		<visibility>0</visibility>
 		<description>Ontario (Emporia St &amp; Euclid Ave) to San Antonio Heights (Mountain Ave &amp; Mountain Ln); 1914-1928</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
@@ -1229,7 +1229,7 @@
 	<Placemark>
 		<name>San Bernardino-Redlands Line</name>
 		<visibility>0</visibility>
-		<description>Downtown Los Angeles (6th &amp; Main) - San Bernardino (3rd &amp; E streets) - Redlands (Citrus Ave. &amp; Orange St)</description>
+		<description>Downtown Los Angeles (6th &amp; Main)-San Bernardino (3rd &amp; E streets)-Redlands (Citrus Ave. &amp; Orange St)</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
 		<ExtendedData>
 		</ExtendedData>
@@ -1297,7 +1297,7 @@
 		</LineString>
 	</Placemark>
 	<Placemark>
-		<name>Highland Line - Patton Branch (San Bernardino Local)</name>
+		<name>Highland Line-Patton Branch (San Bernardino Local)</name>
 		<visibility>0</visibility>
 		<description>3rd &amp; E streets to ATSF Patton Station (Central Ave, south of Highland Ave. 1903-1924</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
@@ -1325,7 +1325,7 @@
 		</LineString>
 	</Placemark>
 	<Placemark>
-		<name>E. Ocean - Esparanza Line (Long Beach Local)</name>
+		<name>E. Ocean-Esparanza Line (Long Beach Local)</name>
 		<visibility>0</visibility>
 		<description>American Ave (now Long Beach Blvd) &amp; Ocean Ave to Mira Mar (Grand &amp; Ocean avenues). 1904-1915</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
@@ -1339,7 +1339,7 @@
 		</LineString>
 	</Placemark>
 	<Placemark>
-		<name>E. 1st - E. 2nd Line (Long Beach Local)</name>
+		<name>E. 1st-E. 2nd Line (Long Beach Local)</name>
 		<visibility>0</visibility>
 		<description>Pine Ave &amp; 1st St to Esperanza &amp; 2nd streets.</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
@@ -1395,7 +1395,7 @@
 		</LineString>
 	</Placemark>
 	<Placemark>
-		<name>E. 3rd St - Redondo Ave Line (Long Beach Local)</name>
+		<name>E. 3rd St-Redondo Ave Line (Long Beach Local)</name>
 		<visibility>0</visibility>
 		<description>Pacific and Ocean avenues to Newport-Balboa Line &amp; Redondo Ave. 1915-1940</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
@@ -1565,7 +1565,7 @@
 	<Placemark>
 		<name>Third Street Line (Santa Monica Local)</name>
 		<visibility>0</visibility>
-		<description>Ocean Ave - Santa Monica Blvd - 3rd St - Montana Ave - 7th St. 1910 - 1927</description>
+		<description>Ocean Ave-Santa Monica Blvd-3rd St-Montana Ave-7th St. 1910-1927</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
 		<ExtendedData>
 		</ExtendedData>
@@ -1579,7 +1579,7 @@
 	<Placemark>
 		<name>Catalina Dock Line</name>
 		<visibility>0</visibility>
-		<description>Downtown Los Angeles (6th &amp; Main) - Wilmington (Anaheim St &amp; Mc Farland Ave) - Catalina Steamer Dock (Water Street). 1920-1958</description>
+		<description>Downtown Los Angeles (6th &amp; Main)-Wilmington (Anaheim St &amp; Mc Farland Ave)-Catalina Steamer Dock (Water Street). 1920-1958</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
 		<ExtendedData>
 		</ExtendedData>
@@ -1591,7 +1591,7 @@
 		</LineString>
 	</Placemark>
 	<Placemark>
-		<name>Long Beach - San Pedro Line</name>
+		<name>Long Beach-San Pedro Line</name>
 		<visibility>0</visibility>
 		<description>Long Beach (Pine &amp; Ocean avenues) to San Pedro (5th &amp; Harbor). 1910-1949</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
@@ -1633,9 +1633,9 @@
 		</LineString>
 	</Placemark>
 	<Placemark>
-		<name>Santa Ana - Orange Line</name>
+		<name>Santa Ana-Orange Line</name>
 		<visibility>0</visibility>
-		<description>Santa Ana (Terminal &amp; 4th streets) to Orange (Chapman Ave &amp; Lemon St). 1914 - 1930</description>
+		<description>Santa Ana (Terminal &amp; 4th streets) to Orange (Chapman Ave &amp; Lemon St). 1914-1930</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
 		<ExtendedData>
 		</ExtendedData>
@@ -1649,7 +1649,7 @@
 	<Placemark>
 		<name>La Bolsa Line</name>
 		<visibility>0</visibility>
-		<description>Huntington Beach to Wiebling (Ellis Ave near Gothard St). 1911 - 1928</description>
+		<description>Huntington Beach to Wiebling (Ellis Ave near Gothard St). 1911-1928</description>
 		<styleUrl>#line-DB4436-5</styleUrl>
 		<ExtendedData>
 		</ExtendedData>
